@@ -1,0 +1,31 @@
+marquee
+{
+    color:black;
+    font-size: medium;
+    font-style: italic;
+}
+body
+{
+    font-size: larger;
+    font-weight: light;
+    font-family: Verdana;
+    color:black;
+}
+h1,center{
+    color:black;
+}
+p{
+    background-color: #a355ec;
+    color:whitesmoke;
+}
+center
+{
+    font-family: Verdana;
+    font-size: large;
+    font-weight: bold;   
+}
+h2{
+    font-size: medium;
+    color : red;
+    font-style: oblique;
+}
